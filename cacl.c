@@ -17,7 +17,7 @@ int main() {
 
          printf("Enter the second number: ");
          scanf("%lf", &num2);
-
+//hiii
          switch(operator) {
             case '+':
                result = num1 + num2;
